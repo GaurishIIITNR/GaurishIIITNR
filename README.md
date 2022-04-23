@@ -3,12 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
 
 
-I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, a Web and Android Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
+I'm <a href="https://201851019-iiitv.github.io/CV/">Gaurish Ojha</a>  😊😊, a Web and Android Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
 
 
 **Talking about Personal Stuff:**
 
-- 🌱 I’m currently learning  Android App development  .
+- 🌱 I’m currently learning CP .
 - 👯 I’m looking to collaborate on Web Developement and Android Development Project.
 - 🤔 I’m looking for good internship opportunity.
 - 💬 Ask me about Web Development, Competitive Programming and Technology in general. 
