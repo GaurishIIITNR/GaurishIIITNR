@@ -13,7 +13,7 @@ I'm <a href="#">Gaurish Ojha</a>  😊😊. Currently  I am pursuing B.Tech in D
 - 🤔 I’m looking for good internship opportunity.
 - 💬 Ask me about Competitive Programming and Technology in general. 
 - 📫 How to reach me: <a href="mailto:gaurishojha21003@gmail.com">gaurishojha21003@gmail.com  ✉️ </a> .
-- 😄 Pronouns: Gaurish,Atal,Bro,Dude .
+- 😄 Pronouns: Gaurish,Atal.
 - 😊 My Favorite to do CP(Competitive Programming).
 
 
