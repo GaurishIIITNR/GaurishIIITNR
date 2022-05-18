@@ -18,8 +18,8 @@ I'm <a href="#">Gaurish Ojha</a>  😊😊. Currently  I am pursuing B.Tech in D
 
 
 <!-- <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun&locale=en" alt="201851019-iiitv" />  -->
-<img align="centre"  width="48%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gaurish21102&v=2&langs_count=5" />
-<!-- <br>
+<!-- <img align="centre"  width="48%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gaurish21102&v=2&langs_count=5" />
+<!-- <br> -->
 <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=201851019-iiitv&" alt="201851019-iiitv" />
 <img align="centre" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" />
 <br>
@@ -51,7 +51,6 @@ I'm <a href="#">Gaurish Ojha</a>  😊😊. Currently  I am pursuing B.Tech in D
 <code><img height="30" src="https://www.seekpng.com/png/full/201-2015948_kali-linux.png"></code> -->
 
 
- -->
 <!-- **Connect Me:**  <br />
    <a href="https://201851019-iiitv.github.io/CV/">
   <img align="left" alt="Ambesh Kumar | Home" width="22px" src="https://i.ibb.co/S5s6SV2/home.png" />
