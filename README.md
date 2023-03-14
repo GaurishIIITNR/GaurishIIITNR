@@ -24,7 +24,7 @@ I'm <a href="#">Gaurish Ojha</a>  😊😊. Currently  I am pursuing B.Tech in D
 <img align="centre" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" /> -->
 <br>
 
- -->
+ 
 <!-- **Languages and Tools:**
 <!-- 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
