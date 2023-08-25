@@ -1,72 +1,46 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 ![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
+<h1 align="center">Hi 👋, I'm Gaurish Ojha</h1>
+<h3 align="center">A Computer Science with Data Science Student and Developer from India</h3>
+
+- 🔭 I’m currently learning **Machine Learning.**
+
+- 👯 I’m currently learning **Web Developement.**
+
+- 🤝 I’m looking for good **internship opportunity.**
+
+- 👨‍💻 I love to do Competitive Programming.
+
+- 💬 Ask me about **Data Structure and Algorithms, Graphs and Technology in general.**
+
+- 📫 How to reach me **gaurishojha21003@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gaurish-ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurish-ojha" height="30" width="40" /></a> <a href="https://codeforces.com/profile/atal.21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atal.21003" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/atal.21003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atal.21003" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/atal21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="atal21003" height="30" width="40" /></a><a href="https://www.hackerrank.com/gaurishojha21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurishojha21003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gaurish102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurish102" height="30" width="40" /></a> <a href="https://clist.by/account/atal/resource/codingcompetitions.withgoogle.com/" target="blank"><img align="center" src="https://clist.by/media/sizes/64x64/img/resources/codingcompetitions_withgoogle_com.png" alt="gaurish102" height="30" width="40" /></a>
+  <a href="https://atcoder.jp/users/atal21003" target="blank"><img align="center" src="https://clist.by/media/sizes/32x32/img/resources/atcoder_jp.png" alt="gaurish102" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/gaurish_ojha/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="gaurish102" height="30" width="40" /></a>
+  <a href="https://clist.by/coder/atal21003/" target="blank"><img align="center" src="https://clist.by/static/img/logo-48.png?1654998059" alt="gaurish102" height="30" width="60" /></a>
+  <a href="https://www.stopstalk.com/user/profile/Gaurish_Ojha" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/StopStalk.png?_rev=20201225170526" alt="gaurish102" height="30" width="60" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurishiiitnr&show_icons=true&locale=en&layout=compact" alt="gaurishiiitnr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishiiitnr&" alt="gaurishiiitnr" /></p>
 
 
-I'm <a href="#">Gaurish Ojha</a>  😊😊. Currently  I am pursuing B.Tech in Data Science and Artificial Intelligence from <a href ="#">IIIT Naya Raipur 🏢 .</a>
 
-
-**Talking about Personal Stuff:**
-
-- 🌱 I’m currently learning CP .
-- 👯 I’m currently learning Web Developement.
-- 🤔 I’m looking for good internship opportunity.
-- 💬 Ask me about Competitive Programming and Technology in general. 
-- 📫 How to reach me: <a href="mailto:gaurishojha21003@gmail.com">gaurishojha21003@gmail.com  ✉️ </a> .
-- 😄 Pronouns: Gaurish,Atal.
-- 😊 My Favorite to do CP(Competitive Programming).
-
-
-<!-- <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun&locale=en" alt="201851019-iiitv" />  -->
-<!-- <img align="centre"  width="48%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gaurish21102&v=2&langs_count=5" />
-<!-- <br> -->
-<!-- <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=201851019-iiitv&" alt="201851019-iiitv" />
-<img align="centre" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" /> -->
-<br>
-
- 
-<!-- **Languages and Tools:**
-<!-- 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="30" src="https://www.pinclipart.com/picdir/big/542-5422938_android-studio-icon-android-studio-new-icon-clipart.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/sublime-text-icon.png"></code> -->
-
-<!-- **Familiar Environment:** -->
-
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="30" src="https://img.pngio.com/png-to-icon-windows-10-244173-free-icons-library-windows-10-icon-png-992_624.jpg"></code>
-<code><img height="30" src="https://www.seekpng.com/png/full/201-2015948_kali-linux.png"></code> -->
-
-
-<!-- **Connect Me:**  <br />
-   <a href="https://201851019-iiitv.github.io/CV/">
-  <img align="left" alt="Ambesh Kumar | Home" width="22px" src="https://i.ibb.co/S5s6SV2/home.png" />
-</a>
-<a href="https://www.linkedin.com/in/ambesh-kumar-7592b31a5/">
-  <img align="left" alt="Ambesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-   <a href="https://twitter.com/AmbeshK88476896">
-  <img align="left" alt="Ambesh Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/ambesh_234/?hl=en">
-  <img align="left" alt="Ambesh's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCNLDPn0lhekyRSgtGOBZQfw">
-  <img align="left" alt="My youtube channel" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br />
-<br />
-:pushpin:  Made with ❤️ by Ambesh Kumar. <br />  :pencil: If  Liked  give  Star⭐⭐:pencil: -->
