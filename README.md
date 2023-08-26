@@ -1,9 +1,8 @@
-![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
-
+![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square) 
+[![wakatime](https://wakatime.com/badge/user/663e162e-324f-45a9-b59c-3069aeb0e8fa.svg)](https://wakatime.com/@663e162e-324f-45a9-b59c-3069aeb0e8fa)
 <h1 align="center">Hi 👋, I'm Gaurish Ojha</h1>
 <h3 align="center">A Computer Science Student and Developer from India</h3>
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="gaurish-ojha" height="400" width="350" />
-
+<img align="right" src="https://wakatime.com/share/@gaurish21102/fd40fa31-41f3-4f44-b40d-bb2ebcbdc43d.svg" alt="gaurish-ojha" height="220" width="320" />
 - 🔭 I’m currently learning **Machine Learning**
 
 - 👯 I’m currently learning **Web Developement.**
@@ -15,6 +14,11 @@
 - 💬 Ask me about **Data Structure and Algorithms, Graphs and Technology in general.**
 
 - 📫 How to reach me **gaurishojha21003@gmail.com**
+<div>
+  <img src="https://raw.githubusercontent.com/gaurishiiitnr/cf-visualizer/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" width="400" height="400" style="float: right; margin-left: 20px;" />
+    <img src="https://leetcard.jacoblin.cool/gaurish102?ext=contest" alt="Leetcode Stats" width="400" height="400" style="float: left; margin-right: 20px;" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurish-ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurish-ojha" height="30" width="40" /></a> <a href="https://codeforces.com/profile/atal.21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atal.21003" height="30" width="40" /></a>
@@ -43,8 +47,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurishiiitnr&show_icons=true&locale=en&layout=compact" alt="gaurishiiitnr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishiiitnr&" alt="gaurishiiitnr" /></p>
-
-![](https://raw.githubusercontent.com/gaurishiiitnr/cf-visualizer/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/gaurishiiitnr/cf-visualizer/main/output/light_card.svg)
-
-
