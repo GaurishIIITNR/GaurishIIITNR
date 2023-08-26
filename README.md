@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **gaurishojha21003@gmail.com**
 <div>
-  <img src="https://raw.githubusercontent.com/gaurishiiitnr/cf-visualizer/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" width="400" height="400" style="float: right; margin-left: 20px;" />
+  <img src="https://raw.githubusercontent.com/gaurishiiitnr/cf-visualizer/main/output/light_card.svg" alt="Codeforces Stats" width="400" height="300" style="float: right; margin-left: 20px;" />
     <img src="https://leetcard.jacoblin.cool/gaurish102?ext=contest" alt="Leetcode Stats" width="400" height="400" style="float: left; margin-right: 20px;" />
 </div>
 
