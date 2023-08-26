@@ -1,8 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
-<h1 align="center">Hi 👋, I'm Gaurish Ojha</h1>
-<h3 align="center">A Computer Science with Data Science Student and Developer from India</h3>
 
-- 🔭 I’m currently learning **Machine Learning.**
+<h1 align="center">Hi 👋, I'm Gaurish Ojha</h1>
+<h3 align="center">A Computer Science Student and Developer from India</h3>
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="gaurish-ojha" height="400" width="350" />
+
+- 🔭 I’m currently learning **Machine Learning**
 
 - 👯 I’m currently learning **Web Developement.**
 
