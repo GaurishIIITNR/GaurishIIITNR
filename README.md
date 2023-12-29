@@ -3,7 +3,7 @@
 <h3 align="center">A Computer Science(Data Science and AI) Student and Developer from India</h3>
 <img align="right" src="https://wakatime.com/share/@gaurish21102/fd40fa31-41f3-4f44-b40d-bb2ebcbdc43d.svg" alt="gaurish-ojha" height="220" width="320" />
 
-- 🔭 I’m currently learning **Backend Development**.
+- 🔭Passionate about **Backend Development** with **Java, Spring Boot, and crafting RESTful APIs**.
 
 - 👯 I’m currently learning **Machine Learning**.
 
