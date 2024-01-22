@@ -17,6 +17,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/gaurishiiitnr/cf-visualizer/main/output/light_card.svg" alt="Codeforces Stats" width="400" height="300" style="float: right; margin-left: 20px;" />
     <img src="https://leetcard.jacoblin.cool/gaurish102?ext=contest" alt="Leetcode Stats" width="400" height="400" style="float: left; margin-right: 20px;" />
+     <img src="https://raw.githubusercontent.com/GaurishIIITNR/cc-visualizer/9267890486214e2f4ce478a33a01ca7d057e957d/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" alt="Codeforces Stats" width="500" height="400" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
