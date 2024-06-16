@@ -14,14 +14,13 @@
 - 💬 Ask me about **Data Structure and Algorithms, Graphs, and Technology in general.**
 
 - 📫 How to reach me **gaurishojha21003@gmail.com**
-
 <div>
   <img src="https://github.com/GaurishIIITNR/cf-stats/blob/main/output/light_card.svg" alt="Codeforces Stats" width="400" height="400" />
   <img src="https://github.com/GaurishIIITNR/cc-visualizer/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" alt="Codechef Stats" width="400" height="400" />
   <img src="https://leetcard.jacoblin.cool/gaurish102?ext=contest" alt="Leetcode Stats" width="400" height="400" style="float: left; margin-right: 20px;" />
 </div>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,7 +43,7 @@
 ![Sublime](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
-# 📱 Connect with me:
+### 📱 Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/gaurish-ojha)
 [![GMail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gaurishojha21003@gmail.com)
 [![cf](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/atal.21003)
