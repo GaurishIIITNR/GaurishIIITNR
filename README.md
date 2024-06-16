@@ -46,24 +46,15 @@
 
 # 💻 Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/gaurish-ojha)
+[![GMail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gaurishojha21003@gmail.com)
 [![cf](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/atal.21003)
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://codeforces.com/profile/atal.21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atal.21003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atal21003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atal.21003" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@atal21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="atal21003" height="30" width="40" /></a><a href="https://www.hackerrank.com/gaurishojha21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurishojha21003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaurish102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurish102" height="30" width="40" /></a> <a href="https://clist.by/account/atal/resource/codingcompetitions.withgoogle.com/" target="blank"><img align="center" src="https://clist.by/media/sizes/64x64/img/resources/codingcompetitions_withgoogle_com.png" alt="gaurish102" height="30" width="40" /></a>
-  <a href="https://atcoder.jp/users/atal21003" target="blank"><img align="center" src="https://clist.by/media/sizes/32x32/img/resources/atcoder_jp.png" alt="gaurish102" height="30" width="40" /></a>
- <a href="https://auth.geeksforgeeks.org/user/gaurish_ojha/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="gaurish102" height="30" width="40" /></a>
-  <a href="https://clist.by/coder/atal21003/" target="blank"><img align="center" src="https://clist.by/static/img/logo-48.png?1654998059" alt="gaurish102" height="30" width="60" /></a>
-  <a href="https://www.stopstalk.com/user/profile/Gaurish_Ojha" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/StopStalk.png?_rev=20201225170526" alt="gaurish102" height="30" width="60" /></a>
-</p>
+[![cc](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/atal21003)
+[![hackerearth](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@atal21003)
+[![hackerrank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gaurishojha21003)
+[![leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://www.leetcode.com/gaurish102)
+[![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://clist.by/account/atal/resource/codingcompetitions.withgoogle.com/)
+[![geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gaurish_ojha/)
+<a href="https://clist.by/coder/atal21003/">
+    <img src="https://clist.by/static/img/logo-48.png?1695241025" alt="clist" style="width: 48px; height: 24px;" />
+</a>
+[![stopstalk](https://img.shields.io/badge/StopStalk-536DFE.svg?style=for-the-badge&logo=StopStalk&logoColor=white)](https://www.stopstalk.com/user/profile/Gaurish_Ojha)
