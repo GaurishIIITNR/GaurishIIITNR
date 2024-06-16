@@ -21,18 +21,6 @@
   <img src="https://leetcard.jacoblin.cool/gaurish102?ext=contest" alt="Leetcode Stats" width="400" height="400" style="float: left; margin-right: 20px;" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaurish-ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurish-ojha" height="30" width="40" /></a> <a href="https://codeforces.com/profile/atal.21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atal.21003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atal21003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atal.21003" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@atal21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="atal21003" height="30" width="40" /></a><a href="https://www.hackerrank.com/gaurishojha21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurishojha21003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaurish102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurish102" height="30" width="40" /></a> <a href="https://clist.by/account/atal/resource/codingcompetitions.withgoogle.com/" target="blank"><img align="center" src="https://clist.by/media/sizes/64x64/img/resources/codingcompetitions_withgoogle_com.png" alt="gaurish102" height="30" width="40" /></a>
-  <a href="https://atcoder.jp/users/atal21003" target="blank"><img align="center" src="https://clist.by/media/sizes/32x32/img/resources/atcoder_jp.png" alt="gaurish102" height="30" width="40" /></a>
- <a href="https://auth.geeksforgeeks.org/user/gaurish_ojha/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="gaurish102" height="30" width="40" /></a>
-  <a href="https://clist.by/coder/atal21003/" target="blank"><img align="center" src="https://clist.by/static/img/logo-48.png?1654998059" alt="gaurish102" height="30" width="60" /></a>
-  <a href="https://www.stopstalk.com/user/profile/Gaurish_Ojha" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/StopStalk.png?_rev=20201225170526" alt="gaurish102" height="30" width="60" /></a>
-</p>
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -51,7 +39,31 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Vs](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+![Vs](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Sublime](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
+# 💻 Connect with me:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/gaurish-ojha)
+[![cf](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/atal.21003)
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://codeforces.com/profile/atal.21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atal.21003" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/atal21003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atal.21003" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@atal21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="atal21003" height="30" width="40" /></a><a href="https://www.hackerrank.com/gaurishojha21003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurishojha21003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gaurish102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurish102" height="30" width="40" /></a> <a href="https://clist.by/account/atal/resource/codingcompetitions.withgoogle.com/" target="blank"><img align="center" src="https://clist.by/media/sizes/64x64/img/resources/codingcompetitions_withgoogle_com.png" alt="gaurish102" height="30" width="40" /></a>
+  <a href="https://atcoder.jp/users/atal21003" target="blank"><img align="center" src="https://clist.by/media/sizes/32x32/img/resources/atcoder_jp.png" alt="gaurish102" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/gaurish_ojha/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="gaurish102" height="30" width="40" /></a>
+  <a href="https://clist.by/coder/atal21003/" target="blank"><img align="center" src="https://clist.by/static/img/logo-48.png?1654998059" alt="gaurish102" height="30" width="60" /></a>
+  <a href="https://www.stopstalk.com/user/profile/Gaurish_Ojha" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/StopStalk.png?_rev=20201225170526" alt="gaurish102" height="30" width="60" /></a>
+</p>
